@@ -1,0 +1,5 @@
+Model,Test Accuracy
+Logistic Regression,0.584375
+Decision Tree,0.60625
+Tuned LR,0.584375
+Tuned DT,0.578125
