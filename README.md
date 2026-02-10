@@ -9,15 +9,6 @@ Machine-Learning-Projects/
 ├── Datasets/                              # Training datasets
 ├── machine-learning-part1.ipynb           # Session 1: ML fundamentals & core concepts
 ├── machine-learning-part2.ipynb           # Session 2: Regression, classification, regularization
-├── co2_emission_model_comparison.csv      # CO2 model comparison results
-├── feature_importance_co2.csv             # Feature importance analysis
-├── feature_importance_comparison.csv      # Cross-model feature comparison
-├── model_comparison_results.csv           # All model performance summaries
-├── wine_classification_results.csv        # Wine quality classification results
-├── linear_regression_model.pkl            # Saved linear regression model
-├── multivariable_linear_regression_model.pkl
-├── profit_prediction_model.pkl            # Company profit prediction model
-├── profit_prediction_poly_model.pkl       # Polynomial profit prediction model
 ├── requirements.txt                       # Python dependencies
 └── .gitignore
 ```
