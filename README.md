@@ -1,4 +1,4 @@
-# 🏠 Machine Learning Fundamentals 
+# 📌 Machine Learning Fundamentals 
 
 A comprehensive machine learning project covering **supervised learning** (regression & classification), **unsupervised learning** (K-Means clustering), and **reinforcement learning** (Q-Learning). Built as part of a structured ML course across two sessions.
 
